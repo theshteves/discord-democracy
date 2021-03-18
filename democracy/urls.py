@@ -1,6 +1,6 @@
 from django.urls import path
 
-from . import views
+from democracy import views
 
 app_name = 'democracy'
 urlpatterns = [
